@@ -15,5 +15,17 @@
   "bugs": {
     "url": "https://github.com/sage-bots/emojivert-node/issues"
   },
-  "homepage": "https://github.com/sage-bots/emojivert-node#readme"
+  "homepage": "https://github.com/sage-bots/emojivert-node#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  },
+  "dependencies": {
+    "dot-utf8": "^0.2.2",
+    "encoding": "^0.1.12",
+    "install": "^0.8.1",
+    "npm": "^3.10.5",
+    "strutil": "git+https://github.com/jupiter/node-strutil.git",
+    "utf8": "^2.1.1"
+  }
 }
